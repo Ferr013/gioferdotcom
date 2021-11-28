@@ -73,4 +73,4 @@ I am currently a Ph.D. student at the University of Melbourne under the supervis
 On a side note, I enjoy reading, playing the guitar and annoying people with music to {{< staticref "https://open.spotify.com/playlist/3FVp0VRfrRnuX6jXjHWtez?si=263574b1bdb44885" "newtab" >}}listen to{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Here you can find a copy of my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}. <br />
-You can contact me via email at g [dot] ferrami [at] gmail [dot] com.
+{{< icon name="envelope" pack="fas" >}} You can contact me via email at g [dot] ferrami [at] gmail [dot] com.
