@@ -70,7 +70,7 @@ I eventually moved to Milan, where I lived at {{< staticref "https://www.collegi
 There I graduated under prof. {{< staticref "https://www.unimi.it/it/ugov/person/claudio-grillo" "newtab" >}}Claudio Grillo{{< /staticref >}} and prof. {{< staticref "https://www.unimi.it/it/ugov/person/giuseppe-bertin" "newtab" >}}Giuseppe Bertin{{< /staticref >}}. <br />
 I am currently a Ph.D. student at the University of Melbourne under the supervision of prof. {{< staticref "https://findanexpert.unimelb.edu.au/profile/2831-stuart-wyithe" "newtab" >}}Stuart Wyithe{{< /staticref >}}.
 
-On a side note, I enjoy reading, playing the guitar and annoying people with music to {{< staticref "https://open.spotify.com/playlist/3FVp0VRfrRnuX6jXjHWtez?si=263574b1bdb44885" "newtab" >}}listen to{{< /staticref >}}.
+On a side note, I enjoy reading, playing the guitar and annoying people with {{< staticref "https://open.spotify.com/playlist/3FVp0VRfrRnuX6jXjHWtez?si=263574b1bdb44885" "newtab" >}}music to listen to{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Here you can find a copy of my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}. <br />
 {{< icon name="envelope" pack="fas" >}} You can contact me via email at g [dot] ferrami [at] gmail [dot] com.
