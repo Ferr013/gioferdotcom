@@ -68,9 +68,12 @@ highlight_name: true
 I was raised in the modern metropolis of Casalbuttano ed Uniti (Italy). <br />
 I eventually moved to Milan, where I lived at {{< staticref "https://www.collegiodimilano.it/en/" "newtab" >}}Collegio di Milano{{< /staticref >}} and studied Physics at the University of Milan.
 There I graduated under prof. {{< staticref "https://www.unimi.it/it/ugov/person/claudio-grillo" "newtab" >}}Claudio Grillo{{< /staticref >}} and prof. {{< staticref "https://www.unimi.it/it/ugov/person/giuseppe-bertin" "newtab" >}}Giuseppe Bertin{{< /staticref >}}. 
-My master thesis studied the presence of rotation and the state of dynamical relaxation in the galactic component of two clusters of galaxies.<br />
-I am currently a Ph.D. student at the University of Melbourne under the supervision of prof. {{< staticref "https://findanexpert.unimelb.edu.au/profile/2831-stuart-wyithe" "newtab" >}}Stuart Wyithe{{< /staticref >}}.
-My research will focus on the effects that strong gravitational lensing induce on the observed Luminosity Function for high-redshift galaxies. 
+<br />
+I am currently a Ph.D. student at the University of Melbourne under the supervision of prof. {{< staticref "https://findanexpert.unimelb.edu.au/profile/2831-stuart-wyithe" "newtab" >}}Stuart Wyithe{{< /staticref >}}.<br />
+
+
+In my master thesis I studied the presence of rotation and the state of dynamical relaxation in the galactic component of two clusters of galaxies.\
+My PhD research will focus on the effects that strong gravitational lensing induce on the observed Luminosity Function for high-redshift galaxies. <br />
 
 On a side note, I enjoy reading, playing the guitar and annoying people with {{< staticref "https://open.spotify.com/playlist/3FVp0VRfrRnuX6jXjHWtez?si=263574b1bdb44885" "newtab" >}}music to listen to{{< /staticref >}}.
 
